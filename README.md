@@ -101,5 +101,5 @@ Stage 0 lays the foundation every later system depends on. All four phases are c
 
 ## License
 
-This mod is licensed under the [GNU Affero General Public License v3.0](LICENSE-MOD.txt) (AGPL-3.0).
+This mod is licensed under the [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0).
 Minecraft Forge itself is licensed separately under the LGPL 2.1 — see [LICENSE.txt](LICENSE.txt).
