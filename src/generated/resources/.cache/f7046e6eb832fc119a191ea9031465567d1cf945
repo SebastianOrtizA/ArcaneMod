@@ -1,0 +1,4 @@
+// 26.2	2026-09-26T21:50:40.2324129	vanilla/Arcane Mod Block Tags
+7d4a808e518627e017598e2a30eb3a3aa20c8074 data/minecraft/tags/block/mineable/axe.json
+15cc463f0dc3856371172594e8fda8f6b986c056 data/minecraft/tags/block/mineable/pickaxe.json
+ac0a455354651bd7d012a3ecc896c1c23eb233f6 data/minecraft/tags/block/needs_iron_tool.json

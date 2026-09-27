@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": "arcanemod:wyrd_dust",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    " I ",
+    "RD ",
+    " I "
+  ],
+  "result": {
+    "id": "arcanemod:quicksilver_core"
+  }
+}

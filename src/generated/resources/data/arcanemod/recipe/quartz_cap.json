@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": "arcanemod:wyrd_dust",
+    "Q": "minecraft:quartz"
+  },
+  "pattern": [
+    "Q Q",
+    " D "
+  ],
+  "result": {
+    "id": "arcanemod:quartz_cap"
+  }
+}

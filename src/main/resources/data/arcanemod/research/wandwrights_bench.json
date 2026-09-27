@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "The Wandwright's Bench",
+  "description": "Craft the Wandwright's Bench — a workstation for assembling modular wands.",
+  "prerequisites": ["arcanemod:a_crude_focus"],
+  "unlocks": ["arcanemod:wandwrights_bench"],
+  "difficulty": 2,
+  "required_facets": ["ignis", "terra"],
+  "pattern": [["ignis", "terra"]],
+  "lore_text": "The cobblestone wand was always meant to be a stepping stone. This bench is where real wand-craft begins — where you choose what a wand does, not just that it works."
+}

@@ -1,0 +1,11 @@
+{
+  "section": 1,
+  "display_name": "Threadwork",
+  "description": "Practice drawing a thread on the Loom: connect Ignis and Terra.",
+  "required_facets": ["ignis", "terra"],
+  "difficulty": 1,
+  "prerequisites": ["arcanemod:first_threads"],
+  "unlocks": [],
+  "lore_text": "Before you weave anything that matters, weave something that doesn't. Two Facets, one thread. Get a feel for it.",
+  "pattern": [["ignis", "terra"]]
+}

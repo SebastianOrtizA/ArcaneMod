@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Core Attunement: Wyrdstone",
+  "description": "Wyrdstone cores hold more Wyrd and waste less of it.",
+  "prerequisites": ["arcanemod:core_attunement_wood"],
+  "unlocks": ["arcanemod:wyrdstone_core"],
+  "difficulty": 2,
+  "required_facets": ["terra", "aer"],
+  "pattern": [["terra", "aer"]],
+  "lore_text": "Wyrdstone was already shaped by the Weave once, deep underground. Shaping it again is less craft than conversation."
+}

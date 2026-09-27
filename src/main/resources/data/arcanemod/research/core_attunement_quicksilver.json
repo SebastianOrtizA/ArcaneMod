@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Core Attunement: Quicksilver",
+  "description": "A volatile core — small capacity, but remarkably efficient.",
+  "prerequisites": ["arcanemod:core_attunement_wyrdstone"],
+  "unlocks": ["arcanemod:quicksilver_core"],
+  "difficulty": 2,
+  "required_facets": ["aqua", "ignis"],
+  "pattern": [["aqua", "ignis"]],
+  "lore_text": "Mercury doesn't hold much, but what it holds moves fast. Thale's margin note: 'Do NOT lick the core.'"
+}

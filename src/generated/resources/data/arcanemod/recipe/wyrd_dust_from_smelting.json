@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.1,
+  "ingredient": "arcanemod:wyrdstone",
+  "result": {
+    "id": "arcanemod:wyrd_dust"
+  }
+}

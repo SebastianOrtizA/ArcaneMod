@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "arcanemod:wyrd_dust_from_smelting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wyrdstone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "arcanemod:wyrdstone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wyrdstone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "arcanemod:wyrd_dust_from_smelting"
+    ]
+  }
+}

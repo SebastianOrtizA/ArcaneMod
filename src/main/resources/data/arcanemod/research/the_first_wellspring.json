@@ -1,0 +1,8 @@
+{
+  "section": 1,
+  "display_name": "The First Wellspring",
+  "description": "Locate a Weave Wellspring and draw Wyrd from it.",
+  "prerequisites": ["arcanemod:first_threads"],
+  "unlocks": [],
+  "lore_text": "The Loomkeepers left more behind than ruins. Some of their work still hums, if you know where to stand."
+}

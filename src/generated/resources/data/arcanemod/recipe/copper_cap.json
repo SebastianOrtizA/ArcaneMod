@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "D": "arcanemod:wyrd_dust"
+  },
+  "pattern": [
+    "C C",
+    " D "
+  ],
+  "result": {
+    "id": "arcanemod:copper_cap"
+  }
+}

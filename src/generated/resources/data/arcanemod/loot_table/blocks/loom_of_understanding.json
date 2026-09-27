@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "arcanemod:loom_of_understanding"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "arcanemod:blocks/loom_of_understanding"
+}

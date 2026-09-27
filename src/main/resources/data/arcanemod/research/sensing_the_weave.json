@@ -1,0 +1,8 @@
+{
+  "section": 1,
+  "display_name": "Sensing the Weave",
+  "description": "Craft the Resonometer.",
+  "prerequisites": ["arcanemod:wyrdstone_refining"],
+  "unlocks": ["arcanemod:resonometer"],
+  "lore_text": "The Weave touches everything, if you know how to listen for it."
+}

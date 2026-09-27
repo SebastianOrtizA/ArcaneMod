@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Core Attunement: Wood",
+  "description": "Learn to shape a wooden core — reliable, balanced, unassuming.",
+  "prerequisites": ["arcanemod:wandwrights_bench"],
+  "unlocks": ["arcanemod:wood_core"],
+  "difficulty": 1,
+  "required_facets": ["terra"],
+  "pattern": [],
+  "lore_text": "Wood remembers the Weave the way a river remembers rain. Not the strongest conduit, but it never fights you."
+}

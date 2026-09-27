@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Core Attunement: Voidglass",
+  "description": "Immense capacity, but the Fray seeps through.",
+  "prerequisites": ["arcanemod:core_attunement_quicksilver"],
+  "unlocks": ["arcanemod:voidglass_core"],
+  "difficulty": 3,
+  "required_facets": ["aer", "umbra"],
+  "pattern": [["aer", "umbra"]],
+  "lore_text": "Obsidian fused with a pearl from the End. The capacity is extraordinary. Thale circled the Fray warning three times."
+}

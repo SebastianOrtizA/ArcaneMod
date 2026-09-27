@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": "arcanemod:wyrd_dust",
+    "P": "minecraft:oak_planks",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "SSS",
+    " D ",
+    "PPP"
+  ],
+  "result": {
+    "id": "arcanemod:loom_of_understanding"
+  }
+}

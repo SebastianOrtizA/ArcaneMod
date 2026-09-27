@@ -1,0 +1,8 @@
+{
+  "section": 1,
+  "display_name": "First Threads",
+  "description": "Craft the Loom of Understanding.",
+  "prerequisites": ["arcanemod:sensing_the_weave"],
+  "unlocks": ["arcanemod:loom_of_understanding"],
+  "lore_text": "A table built for tying knowledge together — literally, if the old stories are right."
+}

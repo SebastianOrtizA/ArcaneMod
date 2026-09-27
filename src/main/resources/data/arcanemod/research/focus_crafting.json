@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Focus Crafting",
+  "description": "Learn to crystallize spells into slottable foci.",
+  "prerequisites": ["arcanemod:wandwrights_bench"],
+  "unlocks": ["arcanemod:spell_focus"],
+  "difficulty": 2,
+  "required_facets": ["aer", "ignis"],
+  "pattern": [["aer", "ignis"]],
+  "lore_text": "A focus is a spell given form — amethyst saturated with intent. Slot one into a wand and the wand remembers the spell for you."
+}

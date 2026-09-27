@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "D": "arcanemod:wyrd_dust"
+  },
+  "pattern": [
+    " A ",
+    " D "
+  ],
+  "result": {
+    "id": "arcanemod:spell_focus"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#arcanemod:dense_weave_biomes",
+    "#minecraft:is_forest",
+    "#minecraft:is_jungle"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Cap Fitting: Copper",
+  "description": "Copper draws Wyrd faster and casts quicker.",
+  "prerequisites": ["arcanemod:wandwrights_bench"],
+  "unlocks": ["arcanemod:copper_cap"],
+  "difficulty": 1,
+  "required_facets": ["ignis"],
+  "pattern": [],
+  "lore_text": "Copper loves heat and hates waiting. A cap made of it channels Wyrd with an eagerness that borders on impatience."
+}

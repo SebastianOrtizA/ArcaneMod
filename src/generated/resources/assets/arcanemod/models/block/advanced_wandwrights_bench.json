@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "arcanemod:block/advanced_wandwrights_bench"
+  }
+}

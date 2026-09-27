@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": "minecraft:crafting_table",
+    "P": "minecraft:oak_planks",
+    "W": "arcanemod:wyrdstone"
+  },
+  "pattern": [
+    "W W",
+    " C ",
+    "P P"
+  ],
+  "result": {
+    "id": "arcanemod:wandwrights_bench"
+  }
+}

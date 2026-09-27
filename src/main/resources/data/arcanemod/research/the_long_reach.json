@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "The Long Reach",
+  "description": "Staves: more foci, more capacity, and access to channeled spells.",
+  "prerequisites": ["arcanemod:focus_crafting", "arcanemod:core_attunement_wyrdstone"],
+  "unlocks": ["arcanemod:modular_staff"],
+  "difficulty": 3,
+  "required_facets": ["terra", "aer", "ignis"],
+  "pattern": [["terra", "aer"], ["aer", "ignis"]],
+  "lore_text": "A staff is a wand that grew up. More slots, more reach, and it unlocks spells a wand can't sustain. The trade-off: both hands busy."
+}

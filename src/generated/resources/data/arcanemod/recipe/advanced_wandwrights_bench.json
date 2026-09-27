@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": "arcanemod:wandwrights_bench",
+    "D": "arcanemod:wyrd_dust",
+    "W": "arcanemod:wyrdstone"
+  },
+  "pattern": [
+    "WDW",
+    "WBW",
+    "WDW"
+  ],
+  "result": {
+    "id": "arcanemod:advanced_wandwrights_bench"
+  }
+}

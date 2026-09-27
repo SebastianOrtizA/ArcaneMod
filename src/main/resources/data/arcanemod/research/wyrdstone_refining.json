@@ -1,0 +1,8 @@
+{
+  "section": 1,
+  "display_name": "Wyrdstone Refining",
+  "description": "Smelt or crush Wyrdstone into Wyrd Dust.",
+  "prerequisites": ["arcanemod:awakening"],
+  "unlocks": ["arcanemod:wyrd_dust"],
+  "lore_text": "Raw Wyrdstone is stubborn. Break it down and it gives up its secrets more easily."
+}

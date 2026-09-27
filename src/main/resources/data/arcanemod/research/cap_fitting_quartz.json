@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Cap Fitting: Quartz",
+  "description": "Quartz extends a spell's reach considerably.",
+  "prerequisites": ["arcanemod:cap_fitting_copper"],
+  "unlocks": ["arcanemod:quartz_cap"],
+  "difficulty": 2,
+  "required_facets": ["aer", "aqua"],
+  "pattern": [["aer", "aqua"]],
+  "lore_text": "Nether quartz has a natural affinity for projection. Point it and the Weave stretches further than it has any right to."
+}

@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Cap Fitting: Prism",
+  "description": "Prism caps split single-target spells across multiple targets.",
+  "prerequisites": ["arcanemod:cap_fitting_iron", "arcanemod:cap_fitting_quartz"],
+  "unlocks": ["arcanemod:prism_cap"],
+  "difficulty": 3,
+  "required_facets": ["aer", "ignis", "aqua"],
+  "pattern": [["aer", "ignis"], ["ignis", "aqua"]],
+  "lore_text": "Amethyst and prismarine, cut just so. A single bolt enters the cap and three leave it. Thale drew a little sketch in the margin — it looks like a trident made of light."
+}

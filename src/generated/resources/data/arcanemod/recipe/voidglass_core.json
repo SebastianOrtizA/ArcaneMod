@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": "arcanemod:wyrd_dust",
+    "E": "minecraft:ender_pearl",
+    "O": "minecraft:obsidian"
+  },
+  "pattern": [
+    " O ",
+    "DED",
+    " O "
+  ],
+  "result": {
+    "id": "arcanemod:voidglass_core"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": "arcanemod:wyrd_dust",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "S S",
+    " D "
+  ],
+  "result": {
+    "id": "arcanemod:silk_binding"
+  }
+}

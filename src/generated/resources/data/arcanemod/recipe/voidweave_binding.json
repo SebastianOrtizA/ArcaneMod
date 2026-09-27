@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": "arcanemod:wyrd_dust",
+    "O": "minecraft:obsidian",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "D O",
+    " S "
+  ],
+  "result": {
+    "id": "arcanemod:voidweave_binding"
+  }
+}

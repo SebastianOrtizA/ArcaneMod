@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#arcanemod:low_density_biomes",
+  "features": "arcanemod:weave_wellspring_placed_low",
+  "step": "surface_structures"
+}

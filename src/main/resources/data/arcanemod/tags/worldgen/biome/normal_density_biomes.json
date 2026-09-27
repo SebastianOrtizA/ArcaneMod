@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:is_overworld"
+  ],
+  "remove": [
+    "#arcanemod:high_density_biomes",
+    "#arcanemod:low_density_biomes"
+  ]
+}

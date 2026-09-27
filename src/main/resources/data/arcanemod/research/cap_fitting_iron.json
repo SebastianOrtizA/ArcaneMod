@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Cap Fitting: Iron",
+  "description": "Iron caps are durable and neutral — no flash, all function.",
+  "prerequisites": ["arcanemod:cap_fitting_copper"],
+  "unlocks": ["arcanemod:iron_cap"],
+  "difficulty": 2,
+  "required_facets": ["terra", "ignis"],
+  "pattern": [["terra", "ignis"]],
+  "lore_text": "Iron doesn't amplify. Iron doesn't diminish. Iron endures, and sometimes that's exactly what you need."
+}

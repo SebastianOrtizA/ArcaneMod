@@ -1,0 +1,8 @@
+{
+  "section": 1,
+  "display_name": "Awakening",
+  "description": "Read the Codex Arcanum for the first time.",
+  "prerequisites": [],
+  "unlocks": [],
+  "lore_text": "If you're reading this, you found the journal. Good. Everything else starts here."
+}

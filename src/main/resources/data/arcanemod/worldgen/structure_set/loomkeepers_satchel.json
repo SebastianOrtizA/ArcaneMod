@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 4,
+    "separation": 2,
+    "salt": 827364501
+  },
+  "structures": [
+    {
+      "structure": "arcanemod:loomkeepers_satchel",
+      "weight": 1
+    }
+  ]
+}

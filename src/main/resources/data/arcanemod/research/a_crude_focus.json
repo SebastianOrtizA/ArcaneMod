@@ -1,0 +1,8 @@
+{
+  "section": 1,
+  "display_name": "A Crude Focus",
+  "description": "Craft the Cobblestone Wand and learn the Spark spell.",
+  "prerequisites": ["arcanemod:the_first_wellspring"],
+  "unlocks": ["arcanemod:wand"],
+  "lore_text": "Two stones and a stick. Ugly, but it works, and Thale insists that's the whole point of a first wand."
+}

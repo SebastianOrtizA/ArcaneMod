@@ -1,0 +1,10 @@
+// 26.2	2026-09-26T21:50:40.2324129	vanilla/Loot Tables
+4b2dbf4b5a1bde88c341478f1bb7ddc270daa6dc data/arcanemod/loot_table/blocks/advanced_wandwrights_bench.json
+a1b6bf2512636edde4003c0941897f0ae9e47e86 data/arcanemod/loot_table/blocks/deepslate_wyrdstone_ore.json
+e2775929b070e632ca59b9bf742f026f8750b71b data/arcanemod/loot_table/blocks/loom_of_understanding.json
+764e8cdb0ea795bdfc7b98f7c7812a9400db5d29 data/arcanemod/loot_table/blocks/wandwrights_bench.json
+198f3637aea541330e10f2ce4cf3a2da19b2a47e data/arcanemod/loot_table/blocks/weave_wellspring.json
+31d7294e3bab83733e5b1a816224fd4b524648c8 data/arcanemod/loot_table/blocks/wyrdstone_ore.json
+86ab8ae88c9747333b31fff0393db92e02d392fc data/arcanemod/loot_table/entities/frayed_skeleton.json
+ec7eb3feb994734d083a5fec73cc40dcd261bd29 data/arcanemod/loot_table/entities/frayed_spider.json
+33c94c7f391b5ca9411db6d21e374b4ee0459125 data/arcanemod/loot_table/entities/frayed_zombie.json

@@ -1,0 +1,11 @@
+{
+  "section": 2,
+  "display_name": "Inlay Work",
+  "description": "Socket gemstones into wands for passive bonuses.",
+  "prerequisites": ["arcanemod:the_long_reach"],
+  "unlocks": ["arcanemod:ruby_inlay", "arcanemod:sapphire_inlay", "arcanemod:emerald_inlay", "arcanemod:diamond_inlay"],
+  "difficulty": 3,
+  "required_facets": ["terra", "ignis", "aqua"],
+  "pattern": [["terra", "ignis"], ["ignis", "aqua"]],
+  "lore_text": "Cut the gem. Set the gem. A ruby pulses with draw speed, a sapphire hoards its Wyrd jealously, an emerald opens an extra focus slot, and a diamond just refuses to break."
+}

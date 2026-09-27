@@ -1,0 +1,6 @@
+{
+  "type": "arcanemod:loomkeepers_satchel",
+  "biomes": "#arcanemod:has_structure/loomkeepers_satchel",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}
