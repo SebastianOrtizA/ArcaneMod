@@ -4,7 +4,7 @@
 
 modLoader="javafml"
 loaderVersion="[65,)"
-license="All Rights Reserved"
+license="AGPL-3.0-only"
 #issueTrackerURL="https://github.com/MyOrganization/MyMod/" #optional
 #clientSideOnly=true #optional, default=false
 
